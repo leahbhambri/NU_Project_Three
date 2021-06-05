@@ -130,3 +130,6 @@ dmypy.json
 
 
 final_project_data.csv
+final_project_data_raw.csv
+sample_data.csv
+tableau_data_clean.csv
